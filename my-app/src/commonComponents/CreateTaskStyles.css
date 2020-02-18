@@ -1,0 +1,15 @@
+.create-form{
+    margin: 20px;
+}
+
+.create-form .fields{
+    margin: 10px;
+}
+.create-task-form{
+    width: fit-content;
+    margin: 0 auto;
+}
+.task-heading{
+    font-size: 18px;
+    font-weight: bold;
+}
